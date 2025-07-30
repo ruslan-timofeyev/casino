@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jetjump.xyz	TRUE	/	FALSE	1999999999	promo	ccxZeCdV9iO_cfI8kot9vS1
+jetjump.xyz	TRUE	/	FALSE	1999999999	NEXT_LOCALE	ru
+jetjump.xyz	TRUE	/	FALSE	1999999999	SameSite	lax
+.jetjump.xyz	TRUE	/	FALSE	1999999999	__ddg8_	y9mwHS2g43LpDF5Z
+.jetjump.xyz	TRUE	/	FALSE	1999999999	__ddg10_	1753917556
+.jetjump.xyz	TRUE	/	FALSE	1999999999	__ddg9_	91.147.90.219
+.jetjump.xyz	TRUE	/	FALSE	1999999999	__ddg1_	1e3MYr4AE8QCWACTsxD1
+
